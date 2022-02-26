@@ -22,3 +22,4 @@
 - ルートフォントをvwで設定していることからPCサイズのレイアウトをタブレットで表示させることが出来ます（remで書いた場合のみ）。
 # gulp-dartsass-pc-sp
 # wp-gulp-dartsass-sp-pc
+# wp-gulp-dartsass-sp-pc
