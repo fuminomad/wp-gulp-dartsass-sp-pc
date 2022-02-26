@@ -66,7 +66,7 @@ const cssSass = () => {
         .pipe(sourcemaps.write('./'))
         .pipe(dest(destPath.css))
         .pipe(notify({
-            message: 'コンパイルOK！',//文字は好きなものに変更してね！
+            message: 'コンパイル出来たよ！',//文字は好きなものに変更してね！
             onLast: true
         }))
 }
